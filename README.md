@@ -36,10 +36,10 @@ python train.py --name --datapath
 ## Evaluation
 cd Evaluation_dataset
 
-**1.Extract features:** extract_features.py
+1.Extract features: **extract_features.py**
 
-**2.Evaluate the results of keypoint matching:** match_keypoints.py
+2.Evaluate the results of keypoint matching: **match_keypoints.py**
 
-**3.Evaluate the results of image registration:** registration.py
+3.Evaluate the results of image registration: **registration.py**
 
 
