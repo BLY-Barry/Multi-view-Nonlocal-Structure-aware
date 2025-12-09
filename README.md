@@ -21,7 +21,7 @@ Evaluation_dataset/
 └── ...
 ```
 
-The full dataset is publicly available from the paper: [SAR-optical feature matching: A large-scale patch dataset and a deep local descriptor](https://www.sciencedirect.com/science/article/pii/S1569843223002571)
+The full dataset is publicly available from the paper: [SAR-optical feature matching: A large-scale patch dataset and a deep local descriptor](https://doi.org/10.1016/j.jag.2023.103433)
 
 The processing details of the dataset can be referred to: [ReDFeat](https://github.com/ACuOoOoO/ReDFeat)
 
